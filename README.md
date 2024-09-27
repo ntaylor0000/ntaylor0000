@@ -1,3 +1,8 @@
+## Hi! I'm Nick
+* I am a Data Analyst from Portland, Oregon (USA).
+* I am focused on learning more about R, Python, and Machine Learning.
+* 
+
 ### Skills
 
 <p align="left">
