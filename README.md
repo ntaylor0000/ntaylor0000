@@ -5,7 +5,7 @@
 * Currently working on the capstone portfolio project for the Google Data Analytics Professional Certification.
 * UP NEXT: Google Business Intelligence Professional Certifcate, Google Advanced Data Analytics Professional Certificate, Standford's Machine Learning Specialiation
 
-* Google Data Analytics Professional Certification: [Case Study 1](https://github.com/ntaylor0000/google-data-analytics-professional-certificate/8_-_Google_Data_Analytics_Capstone:_Complete_a_Case_Study/Case_Study_1:_How_does_bike-share_navigate_speedy_success/README.md)
+* Google Data Analytics Professional Certification: [Case Study 1](<https://github.com/ntaylor0000/google-data-analytics-professional-certificate/8 - Google Data Analytics Capstone: Complete a Case Study/Case Study 1: How does bike-share navigate speedy success/README.md>)
 
 
 
