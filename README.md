@@ -4,7 +4,7 @@
 
 ### Portfolio Projects
 
-* Google Data Analytics Professional Certification: [Case Study 1](<https://github.com/ntaylor0000/google-data-analytics-professional-certificate/8 - Google Data Analytics Capstone: Complete a Case Study/Case Study 1: How does bike-share navigate speedy success/README.md>)
+* Google Data Analytics Professional Certification: [Case Study 1](<https://github.com/ntaylor0000/google-data-analytics-professional-certificate/tree/main/8%20-%20Google%20Data%20Analytics%20Capstone%3A%20Complete%20a%20Case%20Study/Case%20Study%201%3A%20How%20does%20bike-share%20navigate%20speedy%20success>)
 
 
 ### Currently
