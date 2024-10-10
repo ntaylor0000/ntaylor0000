@@ -2,11 +2,20 @@
 * I'm a Data Analyst from Portland, Oregon (USA).
 * I'm focused on learning more about R, Python, and Machine Learning.
 
-* Currently working on the capstone portfolio project for the Google Data Analytics Professional Certification.
-* UP NEXT: Google Business Intelligence Professional Certifcate, Google Advanced Data Analytics Professional Certificate, Standford's Machine Learning Specialiation
+### Portfolio Projects
 
 * Google Data Analytics Professional Certification: [Case Study 1](<https://github.com/ntaylor0000/google-data-analytics-professional-certificate/8 - Google Data Analytics Capstone: Complete a Case Study/Case Study 1: How does bike-share navigate speedy success/README.md>)
 
+
+### Currently
+
+* Working on a capstone portfolio project for the Google Data Analytics Professional Certification.
+
+### Up Next
+
+* Google Business Intelligence Professional Certifcate
+* Google Advanced Data Analytics Professional Certificate
+* Standford's Machine Learning Specialiation
 
 
 ### Skills
