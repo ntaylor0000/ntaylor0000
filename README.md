@@ -9,11 +9,10 @@
 
 ### Currently
 
-* Working on a capstone portfolio project for the Google Data Analytics Professional Certification.
+*  Google Business Intelligence Professional Certifcate
 
 ### Up Next
 
-* Google Business Intelligence Professional Certifcate
 * Google Advanced Data Analytics Professional Certificate
 * Standford's Machine Learning Specialiation
 
