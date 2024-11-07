@@ -9,12 +9,12 @@
 
 ### Currently
 
-*  Google Business Intelligence Professional Certifcate
+*  Google Business Intelligence Professional Certificate
 
 ### Up Next
 
 * Google Advanced Data Analytics Professional Certificate
-* Standford's Machine Learning Specialiation
+* Standford's Machine Learning Specialization
 
 
 ### Skills
