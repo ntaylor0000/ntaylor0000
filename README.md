@@ -6,7 +6,6 @@
 
 * Google Data Analytics Professional Certification: [Case Study 1](<https://github.com/ntaylor0000/google-data-analytics-professional-certificate/tree/main/8%20-%20Google%20Data%20Analytics%20Capstone/Case%20Study%201%20-%20Cyclistic%20Bikes>)
 
-
 ### Currently
 
 *  Google Business Intelligence Professional Certificate
