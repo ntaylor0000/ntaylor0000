@@ -1,6 +1,6 @@
 ## Hi! I'm Nick
 * I'm a Data Analyst from Portland, Oregon (USA).
-* I'm focused on learning more R, Python, and AI/ML.
+* I have experience building and managing analytical teams.
 
 ### Portfolio Projects
 
@@ -8,10 +8,12 @@
 
 ### Currently
 
-*  Google Business Intelligence Professional Certificate
-
+* I'm focused on learning more R, Python, and AI/ML.
+* Google Business Intelligence Professional Certificate
+  
 ### Up Next
 
+* I'm looking to get my foot in the door in Data Science. 
 * Google Advanced Data Analytics Professional Certificate
 * Standford's Machine Learning Specialization
 
