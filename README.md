@@ -8,7 +8,7 @@
 
 ### Currently
 
-* I'm focused on learning more R, Python, and AI/ML.
+* I'm focused on learning more Python, R, and AI/ML.
 * Google Business Intelligence Professional Certificate
   
 ### Up Next
