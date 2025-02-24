@@ -10,11 +10,10 @@
 ### Currently
 
 * Focused on deepening my expertise in Python, R, and exploring AI/ML technologies.
-* Google Business Intelligence Professional Certificate
+* Google Advanced Data Analytics Professional Certificate
   
 ### Up Next
 
-* Google Advanced Data Analytics Professional Certificate
 * Standford's Machine Learning Specialization
 
 
