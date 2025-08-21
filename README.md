@@ -9,7 +9,7 @@
 
 ### Currently
 
-* Focused on deepening my expertise in Python, R, and exploring AI/ML technologies.
+* Focused on deepening my expertise in Python, and exploring AI/ML technologies.
 * Google Advanced Data Analytics Professional Certificate
   
 ### Up Next
