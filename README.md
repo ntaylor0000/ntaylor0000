@@ -1,7 +1,5 @@
 ## Hi! I'm Nick
-* I’m a Data Analyst and Analytics Leader based in Portland, Oregon (USA)
-* I have experience building and managing analytical teams.
-* I’m passionate about transforming data into actionable insights that drive business growth and operational efficiency.
+I’m a Data Analyst and Analytics Leader based in Portland, Oregon, with experience building and managing analytical teams. I’m passionate about transforming data into actionable insights that drive business growth and operational efficiency.
 
 ### Portfolio Projects
 
